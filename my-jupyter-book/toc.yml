@@ -1,0 +1,6 @@
+format: jb-book
+root: intro  # The main introduction file
+
+chapters:
+  - file: content/chapter1
+  - file: content/notebook
