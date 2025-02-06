@@ -1,0 +1,4 @@
+title: "{{cookiecutter.my-jupyter-book}}"
+author: "{{cookiecutter.Shiv Narayan Pandey}}"
+execute:
+  execute_notebooks: force
